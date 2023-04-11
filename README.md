@@ -3,7 +3,7 @@ Rostelecom website testing, testing object https://b2c.passport.rt.ru/ page.
 
 Итоговая практическая работа по автоматизации тестирования.
 Руководствуясь техническими требованиями по проекту https://docs.google.com/document/d/1BUTTUXKue4zZzbDxmfb1EhfvReL-UK3O/edit?usp=sharing&ouid=111986019032269986320&rtpof=true&sd=true
-были составлены тест-кейсы и баг-репорты
+были составлены тест-кейсы и баг-репорты https://github.com/Deepmidnight/Module_28/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%2028%20%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.xlsx
 с использованием автотестирования на тест-кейсы проверяющие основной функционал тестируемого раздела сайта.
 
 Задания по тестированию раздела:
